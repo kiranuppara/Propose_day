@@ -14,11 +14,11 @@ form.addEventListener('submit', (e) => {
     console.log("Comparison Result:", userInput.toLowerCase() === secretCode.toLowerCase());
 
     if (userInput.toLowerCase() === secretCode.toLowerCase()) {
-        resultDiv.innerHTML = 'Baby';
+        resultDiv.innerHTML = 'Bandana';
         setTimeout(() => {
             window.location.href = nextPageUrl; // Redirect after a slight delay
         }, 500);
     } else {
-        resultDiv.innerHTML = 'Naa Tum meri baby nhi hoo kon hooo tum kaha hai meri Sona';
+        resultDiv.innerHTML = 'Naa Tum meri bandana nhi hoo kon hooo tum kaha hai meri sona';
     }
 });
