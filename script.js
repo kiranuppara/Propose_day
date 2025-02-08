@@ -1,19 +1,23 @@
 const form = document.getElementById('login-form');
 const codeInput = document.getElementById('code');
-const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
-const secretCode = 'Bandana'; // Replace with your secret code
-const nextPageUrl = 'main.html'; // Replace with the URL of the new page
+const secretCode = 'Bandana'; // Secret code
+const nextPageUrl = 'main.html'; // URL to redirect on success
 
 form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const userInput = codeInput.value.trim();
+    e.preventDefault(); // Prevent form from reloading the page
 
-    // Convert both user input and secret code to lowercase for case-insensitive comparison
+    const userInput = codeInput.value.trim();
+    console.log("User Input:", userInput);
+    console.log("Secret Code:", secretCode);
+    console.log("Comparison Result:", userInput.toLowerCase() === secretCode.toLowerCase());
+
     if (userInput.toLowerCase() === secretCode.toLowerCase()) {
         resultDiv.innerHTML = 'Baby';
-        window.location.href = nextPageUrl; // Redirect to new page
+        setTimeout(() => {
+            window.location.href = nextPageUrl; // Redirect after a slight delay
+        }, 500);
     } else {
         resultDiv.innerHTML = 'Naa Tum meri baby nhi hoo kon hooo tum kaha hai meri Sona';
     }
