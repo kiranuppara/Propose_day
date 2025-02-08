@@ -10,7 +10,7 @@ form.addEventListener('submit', (e) => {
 	e.preventDefault();
 	const userInput = codeInput.value.trim();
 	if (userInput === secretCode) {
-		resultDiv.innerHTML = 'Bandana';
+		resultDiv.innerHTML = 'Baby';
 		window.location.href = nextPageUrl; // Redirect to new page
 	} else {
 		resultDiv.innerHTML = 'Naa Tum meri baby nhi hoo kon hooo tum kaha hai meri Sona';
