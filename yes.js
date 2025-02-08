@@ -25,7 +25,7 @@ const febHolidays = [
     "I don't want to lose you 😒",
     "And trust me I dont want anyone else 🥰",
     "There's no one better than you❤️",
-    "You're the best baby!! 💖",
+    "You're the best bandana!! 💖",
     "Or should I say, I miss you when",
     "something really good happens 🤨",
     "Acche lagte hai wo pal jo tumhare",
