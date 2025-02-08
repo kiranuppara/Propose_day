@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Baby, please feel it",
+    "Dear Banadana, please feel it",
     "Please ye pyaar ka cycle hai, achee se feel karna",
     "Dost bhi tum, pyaar bhi tum 😊",
     "ek bhi tum aur hazar bhi tum 🤩",
@@ -8,7 +8,7 @@ const febHolidays = [
     "Maine shiddat se chaha hai tumhe, I love you❤️",
     "You're my everything ✔",
     "You are my soulmate ✨💕",
-    "And of course... wait baby.....",
+    "And of course... wait bandhan.....",
     "My future wife🤭",
     "I will always be there for you",
     "No matter how far we are🥰",
