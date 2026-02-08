@@ -1,6 +1,5 @@
 const febHolidays = [
-  "💞 Ammu Kosam Naa Hrudayam Nundi Raasina Prema Kavitha 💞",
-
+  
   "Dear Ammu…",
   "Please feel this… naa gundello nundi vachina prema 💓",
   "Idi prema oka cycle kaadu…",
@@ -138,5 +137,6 @@ const febHolidays = [
     }
   });
   
+
 
 
