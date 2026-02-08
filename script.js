@@ -19,7 +19,8 @@ form.addEventListener('submit', (e) => {
             window.location.href = nextPageUrl; // Redirect after a slight delay
         }, 500);
     } else {
-        resultDiv.innerHTML = 'Hmm… nuvvu naa Harika laa ledu. Mari nuvvu evaru? 😌 Naa Ammu ekkada undi cheppu… heart wait cheyyalekapothundi 🫶';
+        resultDiv.innerHTML = 'Hmm… nuvvu naa Harika laa ledu. Mari nuvvu evaru? 😌 Naa Ammu ekkada undi cheppu… 🫶';
     }
 });
+
 
