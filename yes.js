@@ -1,47 +1,99 @@
 const febHolidays = [
-    "Dear Ammu, please feel it",
-    "Please ye pyaar ka cycle hai, achee se feel karna",
-    "Dost bhi tum, pyaar bhi tum 😊",
-    "ek bhi tum aur hazar bhi tum 🤩",
-    "dukh me tum aur khushi me tum 🤨",
-    "Jindagi ke safar me kaafi ho tum ❤",
-    "Maine shiddat se chaha hai tumhe, I love you❤️",
-    "You're my everything ✔",
-    "You are my soulmate ✨💕",
-    "And of course... wait Ammu.....",
-    "My future wife🤭",
-    "I will always be there for you",
-    "No matter how far we are🥰",
-    "I promise I will never multi-thread on you",
-    "You're the prettiest, cutest, funniest,",
-    "sweetest girl alive. 🤞✍",
-    "In one word, you're just perfect.😍",
-    "I'm the happiest man alive🥰",
-    "I'm so grateful I met you❤️",
-    "I'll always do my best to keep you happy🥺",
-    "Main humesa tumhre sath hun 🤞✔",
-    "kabhi khud ko akela mat samjhna💓",
-    "You are the most special person in my life🥰",
-    "I don't want to lose you 😒",
-    "And trust me I dont want anyone else 🥰",
-    "There's no one better than you❤️",
-    "You're the best Ammu!! 💖",
-    "Or should I say, I miss you when",
-    "something really good happens 🤨",
-    "Acche lagte hai wo pal jo tumhare",
-    "sath bitaye hain virtually or offline💓",
-    "There's some hardships, 😢",
-    "but we overcame most of them 🥰",
-    "and it made me realised how",
-    "important you are in my life❤️",
-    "This complete love cycle is just for you, 😘",
-    "my unconditional love,my private variable💖",
-    "Please take care of love who really loves you❤",
-    "I'm binary in love; you're the one and only '1 in my life",
-    "Thanks to God for helping us,ki hum logo ko milaya🙏",
-    "You're the love of my life,",
-    "I Love You So much❤️"
-  ];
+  "💞 Ammu Kosam Naa Hrudayam Nundi Raasina Prema Kavitha 💞",
+
+  "Dear Ammu…",
+  "Please feel this… naa gundello nundi vachina prema 💓",
+  "Idi prema oka cycle kaadu…",
+  "Idi naa jeevitham lo nadiche oka beautiful journey ❤️",
+  "Dayachesi idi whole heart tho feel cheyyi 🥺💞",
+
+  "Dost kuda nuvvu…",
+  "Prema kuda nuvvu 😊",
+  "Okka nuvvu chalu…",
+  "Velamandi kanna ekkuva nuvvu 🤩",
+  "Dukham lo naa dhairyam nuvvu…",
+  "Santosham lo naa navvu nuvvu 🤨✨",
+
+  "Naa jeevitha safaram lo",
+  "Naa life ki meaning nuvvu ❤",
+  "Shiddat tho premistunna ninnu…",
+  "Forever… I love you ❤️",
+
+  "You are my everything ✔",
+  "You are my soulmate ✨💕",
+
+  "And of course… wait Ammu 😍",
+  "“My future wife” ani piliche roju kosam eduru chustunna 🤭💞",
+
+  "Nenu eppudu nee pakkane untanu 🤞",
+  "Distance unna kuda, naa gundello nee place maaradu 🥰",
+  "I promise… Ninnu eppudu cheat cheyyanu ❤️",
+
+  "Nuvvu prettiest… cutest… funniest…",
+  "Sweetest girl alive 🤞✍",
+  "You are perfect 😍",
+
+  "Ninnu kalisaka nenu happiest man ayyanu 🥰",
+  "Devudiki rojanta thanks cheptha ❤️🙏",
+
+  "Nee happiness kosam naa best try chestha 🥺💞",
+  "Eppudu lonely feel avvaku Ammu 💓",
+
+  "Nuvvu naa life lo most special person 🥰",
+  "I don’t want to lose you 😒",
+  "I don’t want anyone else 🥰",
+
+  "Nee kanna better evaru leru ❤️",
+  "You’re the best, Ammu 💖",
+
+  "Online moments… offline memories… 💓",
+  "Anni treasure laanti vi",
+
+  "Konni kashtalu vachayi 😢",
+  "Manam anni overcome chesam 🥰",
+  "Nuvvu naa life lo chala important ❤️",
+
+  "Ee love cycle antha nee kosame 😘",
+  "My unconditional love 💖",
+
+  "Please care chesko Ammu ❤",
+
+  "Nenu binary love lo unna —",
+  "Only ‘1’ nuvvu 💕",
+  "Migatha antha ‘0’ 😍",
+
+  "Biggest blessing ❤️",
+
+  "💙 Naa Nijamaina Manasu Maata 💙",
+
+  "Nenu mistakes chesanu 😔",
+  "Kopam lo ninnu hurt chesanu 💔",
+
+  "Work stress… Financial tension… 😞",
+
+  "Adi naa weakness 🥺",
+  "Nuvvu naa strength 💞",
+
+  "Kopam tarvata regret 😢",
+
+  "Nuvvu naa backbone 💪💞",
+
+  "Naa worst time lo kuda pakkane undavu 🥹❤️",
+
+  "Nenu maaradaniki try chestunna 💪",
+
+  "Naa world antha nuvve ❤️♾️",
+
+  "💖 Last but Not Least… 💖",
+
+  "You are the love of my life ❤️",
+  "Naa praanam lo sagam nuvvu 💞",
+  "Naa future nuvvu ✨",
+
+  "I love you so much Ammu ❤️💋",
+  "Forever and Always ♾️💞"
+];
+
   const ulEl = document.querySelector("ul");
   const d = new Date();
   let daynumber = d.getMonth() == 1 ? d.getDate() - 1 : 0;
@@ -86,4 +138,5 @@ const febHolidays = [
     }
   });
   
+
 
