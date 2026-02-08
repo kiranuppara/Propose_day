@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Banadana, please feel it",
+    "Dear Ammu, please feel it",
     "Please ye pyaar ka cycle hai, achee se feel karna",
     "Dost bhi tum, pyaar bhi tum 😊",
     "ek bhi tum aur hazar bhi tum 🤩",
@@ -8,7 +8,7 @@ const febHolidays = [
     "Maine shiddat se chaha hai tumhe, I love you❤️",
     "You're my everything ✔",
     "You are my soulmate ✨💕",
-    "And of course... wait bandhan.....",
+    "And of course... wait Ammu.....",
     "My future wife🤭",
     "I will always be there for you",
     "No matter how far we are🥰",
@@ -25,7 +25,7 @@ const febHolidays = [
     "I don't want to lose you 😒",
     "And trust me I dont want anyone else 🥰",
     "There's no one better than you❤️",
-    "You're the best bandana!! 💖",
+    "You're the best Ammu!! 💖",
     "Or should I say, I miss you when",
     "something really good happens 🤨",
     "Acche lagte hai wo pal jo tumhare",
@@ -86,3 +86,4 @@ const febHolidays = [
     }
   });
   
+
